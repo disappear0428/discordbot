@@ -1,0 +1,14 @@
+{
+    "url_pic": [
+        "url"
+    ],
+    "TOKEN": "123456",
+    "channel_join": "discordchannel",
+    "channel_leave": "discordchannel",
+    "time": "0400",    
+    "nextday": "0000",
+    "min": "00",
+    "nsfwchannel": "discordchannel",
+    "nsfwchannel2": "discordchannel",
+    "test": "discordchannel"
+}
